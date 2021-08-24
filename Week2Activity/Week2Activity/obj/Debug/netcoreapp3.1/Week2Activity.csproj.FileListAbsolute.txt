@@ -1,0 +1,13 @@
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\bin\Debug\netcoreapp3.1\Week2Activity.exe
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\bin\Debug\netcoreapp3.1\Week2Activity.deps.json
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\bin\Debug\netcoreapp3.1\Week2Activity.runtimeconfig.json
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\bin\Debug\netcoreapp3.1\Week2Activity.runtimeconfig.dev.json
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\bin\Debug\netcoreapp3.1\Week2Activity.dll
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\bin\Debug\netcoreapp3.1\Week2Activity.pdb
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\obj\Debug\netcoreapp3.1\Week2Activity.csproj.AssemblyReference.cache
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\obj\Debug\netcoreapp3.1\Week2Activity.AssemblyInfoInputs.cache
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\obj\Debug\netcoreapp3.1\Week2Activity.AssemblyInfo.cs
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\obj\Debug\netcoreapp3.1\Week2Activity.csproj.CoreCompileInputs.cache
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\obj\Debug\netcoreapp3.1\Week2Activity.dll
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\obj\Debug\netcoreapp3.1\Week2Activity.pdb
+C:\Users\osiri\Documents\SU\OOP\Week 2\Week2Activity\Week2Activity\obj\Debug\netcoreapp3.1\Week2Activity.genruntimeconfig.cache
